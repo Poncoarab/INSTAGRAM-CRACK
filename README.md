@@ -1,6 +1,7 @@
 # PREMIUM
 
-Perintah Tools Crack Insta
+#Perintah Tools Crack Insta#
+
 $ cd /sdcard
 
 $ pkg update
