@@ -34,4 +34,4 @@ $ ls *L KECIL YA
 
 $ cd INSTAGRAM-CRACK
 
-$ python IGrif.py
+$ python IG.py
