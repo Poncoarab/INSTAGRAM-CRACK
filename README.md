@@ -28,7 +28,7 @@ $ pip install requests
 
 $ pip install mechanize
 
-$ git clone https://github.com/ArifSinta/INSTAGRAM-CRACK
+$ git clone https://github.com/Red Baron55022Q/INSTAGRAM-CRACK
 
 $ ls *L KECIL YA
 
